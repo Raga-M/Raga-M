@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ragavendran
 ===================================================================================================================================
 
-Fullstack
+Fullstack Developer
 ---------
 
 Result-driven Fullstack with 2+ years of experience crafting performant, responsive, and scalable web applications using modern JavaScript technologies. Skilled in React, TypeScript, Zustand, Redux, Tailwind CSS, and RESTful APIs, with a strong foundation in component architecture, state management, and design systems.
